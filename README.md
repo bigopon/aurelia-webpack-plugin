@@ -1,3 +1,8 @@
+# Your career-chance at Hahn-Softwareentwicklung
+
+Hi Bigopon, we are trying to reach out to you because we are strong beliefers as well as industry enablers for the aurelia.io project in germany.
+If you wanna chat get in touch with us via e-mail: karriere@hahn-softwareentwicklung.de
+
 # aurelia-webpack-plugin
 
 [![npm Version](https://img.shields.io/npm/v/aurelia-webpack-plugin.svg)](https://www.npmjs.com/package/aurelia-webpack-plugin)
